@@ -16,16 +16,19 @@ The study focuses on the Brière marshes, a coastal wetland located in Loire-Atl
 
 ## Data description
 
-The repository contains three Excel files providing the data used in the study and supporting the analyses and results presented in the article.
+The repository contains five Excel files providing the datasets used to support the analyses and results presented in the scientific article.
 
-The files include data relating to the current vegetation patterns, environmental conditions and projected vegetation changes under future scenarios.
+The files include:
 
-| File | Description |
+| File name | Description |
 |---|---|
-| [Excel file 1] | Data describing current vegetation and habitats. |
-| [Excel file 2] | Environmental variables and factors influencing vegetation dynamics. |
-| [Excel file 3] | Projected vegetation changes and habitat distribution under future scenarios. |
-| [Excel file 4] | Dataset of vegetation tolerance according to Tichy. |
+| `Indicator_values_Tichy_et_al 2022-11-29.xlsx` | Indicator values from Tichy et al. (2022). |
+| `indicesALADIN63_CNRM-CM5_...xlsx` | Climate index data from the ALADIN63-CNRM-CM5 model. |
+| `mean_indicesALADIN63_CNRM-CM5_...xlsx` | Mean climate index values from the ALADIN63-CNRM-CM5 model. |
+| `mean_reference_indicesALADIN63_CNRM-CM5_...xlsx` | Mean reference climate index values from the ALADIN63-CNRM-CM5 model. |
+| `ombrothermic diagram.xlsx` | Ombrothermic diagram data. |
+
+All datasets are provided in Microsoft Excel (.xlsx) format.
 
 ## Temporal framework
 
