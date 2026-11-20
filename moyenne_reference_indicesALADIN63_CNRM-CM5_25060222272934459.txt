@@ -1,0 +1,29 @@
+#-----------------------------------------------------------------------------
+# Date d'extraction : 02/06/2025 - 22h27 loc.
+#-----------------------------------------------------------------------------
+# Producteur : MF_DCSC
+# Experience : TRACC2023
+# Modele     : ALADIN63_CNRM-CM5
+# Scenario :
+#     REF : référence
+#-----------------------------------------------------------------------------
+# Type d'indice : annuel
+#-----------------------------------------------------------------------------
+# Indices : 
+#     NORTMm_yr : Température moyenne annuelle (°C)
+#     NORTMm_seas_JJA : Température moyenne en été (°C)
+#     NORTMm_seas_DJF : Température moyenne en hiver (°C)
+#     NORTXm_seas_JJA : Température maximale en été (°C)
+#     NORTX35D_yr : Nombre de jours avec Tx >= 35°C (jour(s))
+#     NORTX30D_yr : Nombre de jours avec Tx >= 30°C (jour(s))
+#     NORRR_yr : Cumul de précipitations annuelles (mm)
+#     NORRR_seas_JJA : Cumul de précipitations en été (mm)
+#     NORRR_seas_DJF : Cumul de précipitations en hiver (mm)
+#     NORRx1d_yr : Intensité des précipitations extrêmes (max annuel des  précipitations totales) (mm)
+#     NORIFM40_yr : Indicateur feux météo nombre de jours supérieurs à 40 (jour(s))
+#     NORSWI04_yr : Nombre de jours avec SWI < 0.4 (jour(s))
+#-----------------------------------------------------------------------------
+# Format des enregistrements 
+# Point;Latitude;Longitude;Contexte;NORTMm_yr;NORTMm_seas_JJA;NORTMm_seas_DJF;NORTXm_seas_JJA;NORTX35D_yr;NORTX30D_yr;NORRR_yr;NORRR_seas_JJA;NORRR_seas_DJF;NORRx1d_yr;NORIFM40_yr;NORSWI04_yr;
+#-----------------------------------------------------------------------------
+11750;47.3648;-2.2735;REF;12.29;18.54;6.48;22.76;0.3;5.5;747.76;117.91;225.05;33.73;3;157;
