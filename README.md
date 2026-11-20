@@ -25,8 +25,7 @@ The files include data relating to the current vegetation patterns, environmenta
 | [Excel file 1] | Data describing current vegetation and habitats. |
 | [Excel file 2] | Environmental variables and factors influencing vegetation dynamics. |
 | [Excel file 3] | Projected vegetation changes and habitat distribution under future scenarios. |
-
-*Note: The descriptions above should be adjusted to match the actual content of each Excel file.*
+| [Excel file 4] | Dataset of vegetation tolerance according to Tichy. |
 
 ## Temporal framework
 
